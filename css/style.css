@@ -7,7 +7,7 @@ hr{
   border-top-style: dotted;
   border-color:#FF9A8C;
   border-width: 5px;
-  width: 5%; <!-- ye width page ratio ke hisab se chota  bada karegi -->
+  width: 5%; 
 }
 img {
     height: 250px;
